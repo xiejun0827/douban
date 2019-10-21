@@ -1,0 +1,72 @@
+h1{
+  padding-left: 0.22rem;
+  color: #aaa;
+}
+.main{
+  padding: 0 0.22rem;
+ }
+.main .main-1{
+  overflow: hidden;
+  margin-top: 0.26rem;
+  border-bottom: 1px solid red;
+}
+.main .left{
+  float: left;
+  width: 0.48rem;
+  height: 0.48rem;
+  border-radius: 0.5rem;
+}
+.main .right{
+  float: left;
+  width: 2.66rem;
+  padding-left: 0.16rem;
+}
+.main .right h2{
+  margin-top: 0.13rem;
+  font-size: 0.16rem;
+  font-weight: bold;
+  padding-bottom: 0.07rem;
+}
+.main .right .span1{
+  font-size: 0.12rem;
+  color: #aaa;
+}
+.main .right p{
+  margin-top: 0.24rem;
+  font-size: 0.14rem;
+  color: #494949;
+  padding-bottom: 0.23rem;
+}
+.main .right div{
+  width: 100%;
+  padding-bottom: 0.24rem;
+}
+.main-2{
+  margin-top: 0.46rem;
+  font-size: 0.14rem;
+  color: #42bd56;
+  width: 100%;
+  text-align: center;
+}
+.main-3{
+  width: 100%;
+  padding: 0 0.22rem;
+  margin-top: 0.33rem;
+}
+.main-4{
+  width: 100%;
+  padding: 0 0.22rem;
+}
+.main-4 li{
+  margin-top: 0.24rem;
+}
+.main-4 li p{
+  font-size: 0.16rem;
+  color: #494949;
+}
+.main-4 li span{
+  display: block;
+  margin-top: 0.22rem;
+  font-size: 0.12rem;
+  color: #42bd56;
+}

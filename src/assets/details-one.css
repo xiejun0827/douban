@@ -1,0 +1,60 @@
+.banner{
+  overflow: hidden;
+  margin-top: 0.36rem;
+  padding: 0 0.22rem;
+}
+.banner div{
+  width: 1.52rem;
+  height: 0.36rem;
+  float: left;
+  text-align: center;
+  border: 1px solid #ffb712;
+  color: #ffb712;
+  line-height: 0.36rem;
+  border-radius: 0.05rem;
+}
+.banner-1{
+  padding: 0 0.22rem;
+  margin-top: 0.38rem;
+}
+.banner-1 h2{
+  padding-bottom: 0.22rem;
+  font-size: 0.14rem;
+  color: #aaa;
+}
+.banner-1 p{
+  line-height: 0.17rem;
+  color: #494949;
+}
+h1{
+  padding-left: 0.22rem;
+  padding-top: 0.38rem;
+  color: #aaa;
+}
+.banner-2{
+  padding: 0 0.22rem 0 0.12rem;
+  margin-top: 0.32rem;
+  overflow: hidden;
+}
+.banner-2 li{
+  float: left;
+  padding: 0.1rem 0.14rem;
+  background: #f5f5f5;
+  margin-left: 0.12rem;
+  border-radius: 0.5rem;
+  margin-top: 0.1rem;
+}
+.banner-3{
+margin-left: 0.19rem;
+  width: 100%;
+  margin-top: 0.19rem;
+  overflow-x: auto;
+  white-space: nowrap
+}
+.banner-3 li{
+  display: inline-block;
+  width: 2.16rem;
+  height: 1.44rem;
+  overflow: hidden;
+  margin-left: 0.03rem;
+}

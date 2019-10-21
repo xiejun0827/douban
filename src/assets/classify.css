@@ -1,0 +1,69 @@
+.up{
+  overflow: hidden;
+}
+.up p{
+  float: left;
+  font-size: 0.16rem;
+  color: #42bd56;
+  margin-left: 0.16rem;
+  line-height: 0.57rem;
+}
+.up input{
+  float: left;
+  background: #f3f3f3;
+  width: 2.87rem;
+  height: 0.38rem;
+  margin: 0.1rem 0 0 0.13rem;
+}
+.up img{
+  position: absolute;
+  top:0.19rem;
+  left: 2rem;
+}
+ul{
+  overflow: hidden;
+  padding-bottom: 0.38rem;
+}
+ul li{
+  float: left;
+  width: 1.23rem;
+  padding: 0.45rem 0 0;
+}
+li p{
+  width: 100%;
+  text-align: center;
+  font-size: 0.22rem;
+}
+li span{
+  display: block;
+  width: 100%;
+  text-align: center;
+  margin-top: 0.03rem;
+  color: #999999;
+}
+.down{
+  overflow: hidden;
+  height: 0.49rem;
+  border-bottom:1px solid #f3f3f3;
+}
+.down div{
+  float: left;
+  line-height: 0.49rem;
+  color: #42bd56;
+}
+.down span{
+  float: left;
+  display: block;
+  width: 0.01rem;
+  height: 0.17rem;
+  background: #e5e5e5;
+  margin-top: 0.16rem;
+}
+.down .left{
+  width: 1.87rem;
+  text-align: center;
+}
+.down .right{
+  width: 1.87rem;
+  text-align: center;
+}

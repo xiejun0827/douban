@@ -1,0 +1,106 @@
+ul{
+  border-top: 1px solid #ededed;
+}
+li{
+margin-top: 0.25rem;
+  border-bottom: 1px solid #ededed;
+  padding-bottom: 0.19rem;
+}
+.up{
+  overflow: hidden;
+}
+.up .left{
+  float: left;
+  width: 0.75rem;
+  height: 1.11rem;
+}
+.up .right{
+  float: left;
+  width: 2.29rem;
+  padding-left: 0.16rem;
+}
+.right p{
+  font-size: 0.16rem;
+}
+.ooo img{
+  width :0.16rem;
+  height: 0.16rem
+}
+.ooo{
+  width: 100%;
+  height: 0.2rem;
+  margin-top: 0.08rem;
+  font-size: 0.12rem;
+  color :#aaaaaa
+}
+.ooo span{
+  display: block;
+  width: 100%;
+  height: 0.2rem;
+  text-align: center;
+  font-size: 0.12rem;
+  color: #aaaaaa;
+}
+.ooo i{
+  line-height: 0.2rem;
+  font-size: 0.14rem;
+  color: #aaaaaa
+}
+.ooo b{
+  line-height: 0.2rem;
+  font-size :0.14rem;
+  color: #aaaaaa;
+  margin-left: 0.07rem
+}
+.ppp span{
+  color: #aaa;
+  line-height: 0.18rem;
+}
+.down{
+  width: 2.77rem;
+  height: 0.36rem;
+  border-left: 2px solid #e5e5e5;
+  margin: 0.13rem auto 0;
+  padding-left: 0.08rem;
+  line-height: 0.18rem;
+  color: #494949;
+}
+h1{
+  font-size: 0.14rem;
+  color: #818181;
+  padding-top: 0.34rem;
+}
+.lll{
+  overflow: hidden;
+  border: none;
+  margin-left: -0.1rem;
+}
+.lll li{
+  float: left;
+  padding: 0.07rem 0.12rem;
+  margin-top: 0.15rem;
+  background: #f5f5f5;
+  border-radius: 0.2rem;
+  margin-left: 0.1rem;
+  border: none;
+  color: #494949;
+}
+h3{
+  width: 100%;
+  text-align: center;
+  margin-top: 0.32rem;
+}
+.foot{
+  overflow: hidden;
+  margin-top: 0.24rem;
+}
+.foot div{
+  float: left;
+  width: 1.5rem;
+  height: 0.34rem;
+  border: 1px solid #cccccc;
+  background: #f2f2f2;
+  border-radius: 0.05rem;
+  line-height: 0.34rem;
+  text-align: center;
+}
